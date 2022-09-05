@@ -1,0 +1,7 @@
+com\GetDetailsofPushpaMovie\PageObject\WIKI.class
+com\GetDetailsofPushpaMovie\Utilities\Reporting.class
+com\GetDetailsofPushpaMovie\PageObject\BaseClass.class
+com\GetDetailsofPushpaMovie\Utilities\ReadConfig.class
+com\GetDetailsofPushpaMovie\PageObject\IMDB.class
+com\GetDetailsofPushpaMovie\TestCases\ValidationDateandCountryIMDB.class
+com\GetDetailsofPushpaMovie\TestCases\ValidationDateandCountryWIKI.class

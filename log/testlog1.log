@@ -1,0 +1,95 @@
+2022-09-05 15:19:51,133 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:23:00,645 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:25:58,623 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:29:23,155 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:46:10,436 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:46:11,218 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:46:11,218 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:46:11,225 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 15:46:31,175 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:46:31,533 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:46:31,534 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:46:31,534 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 15:52:46,541 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:52:46,853 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:52:46,853 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:52:46,858 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 15:53:05,249 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:53:05,754 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:53:05,755 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:53:05,755 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 15:56:37,692 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:56:38,504 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:56:38,505 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:56:38,510 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 15:56:54,519 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 15:56:54,933 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 15:56:54,934 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 15:56:54,935 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 16:05:25,366 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:05:26,144 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:05:26,144 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:05:26,151 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:05:57,505 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:05:57,830 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:05:57,830 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:05:57,831 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 16:07:21,258 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:07:21,999 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:07:22,000 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:07:22,005 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:08:46,624 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:08:47,529 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:08:47,530 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:08:47,535 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:09:14,892 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:09:15,142 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:09:15,143 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:09:15,144 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 16:10:44,270 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:10:44,510 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:10:44,511 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:10:44,516 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:12:13,648 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:13:30,919 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:13:31,230 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:13:31,231 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:13:31,236 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:13:58,831 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:13:59,037 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:13:59,038 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:13:59,038 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 16:34:43,186 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:34:44,078 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:34:44,079 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:34:44,084 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:35:08,912 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:35:09,162 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:35:09,163 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:35:09,164 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 16:39:08,325 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:39:09,095 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:39:09,096 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:39:09,106 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 16:39:30,288 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 16:39:30,493 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 16:39:30,494 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 16:39:30,496 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 21:33:34,186 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:34:31,737 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:34:31,974 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 21:34:31,975 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 21:34:31,979 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 21:36:10,043 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:37:04,785 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:37:05,722 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 21:37:05,723 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 21:37:05,734 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
+2022-09-05 21:39:28,542 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:39:28,781 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 21:39:28,788 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 21:39:28,795 [main] INFO GetDetailsofPushpaMovie - TestCase failed
+2022-09-05 21:39:55,410 [main] INFO GetDetailsofPushpaMovie - Extracting Date and Country from IMDB Platform
+2022-09-05 21:39:55,739 [main] INFO GetDetailsofPushpaMovie - Extracted Successfully
+2022-09-05 21:39:55,740 [main] INFO GetDetailsofPushpaMovie - Validation starts
+2022-09-05 21:39:55,740 [main] INFO GetDetailsofPushpaMovie - Validated Successfully, TestCase Pass 
